@@ -2,7 +2,7 @@
 
 ## Description
 
-Custimze your Dell Rack Server's LCD on Front Pannel 
+Customze your Dell Rack Server's LCD on Front Pannel 
 
 ## Usage
 
