@@ -2,7 +2,9 @@
 
 ## Description
 
-Custimze your Dell Rack Server's LCD on Front Pannel 
+Customize your Dell Rack Server's LCD on Front Pannel 
+
+[How it works](/THEORY.md)
 
 ## Usage
 
